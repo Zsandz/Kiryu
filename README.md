@@ -1,4 +1,4 @@
-<pre><code>apt install -y && apt update -y && apt upgrade -y && wget -q https://raw.githubusercontent.com/Zsandz/tess/main/main.sh && chmod +x main.sh && ./main.sh</code></pre>
+<pre><code>apt update -y && apt upgrade -y && wget -q https://raw.githubusercontent.com/Zsandz/tess/main/main.sh && chmod +x main.sh && ./main.sh</code></pre>
 
 ### ⚠️ INSTALL SCRIPT ⚠️
 <pre><code>apt install -y && apt update -y && apt upgrade -y && apt install lolcat -y && gem install lolcat && wget -q https://raw.githubusercontent.com/Zsandz/kiryu/main/main.sh && chmod +x main.sh && ./main.sh</code></pre>
